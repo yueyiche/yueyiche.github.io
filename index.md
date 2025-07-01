@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome"
+title: "Yueyi Che 车玥逸"
 ---
 ![Penguin](/assets/img/Penguin.jpg){: style="border-radius: 12px;" }
 
