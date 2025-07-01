@@ -15,6 +15,7 @@ GitHub: [yueyiche](https://github.com/yueyiche)
 LinkedIn: [yueyi-che](https://linkedin.com/in/yueyi-che)
 
 I am always looking for potential collaborators for research and outreach projects.
+
 I can...
 * Conduct research related to my research interests;
 * Draw science communication illustrations such as: comics, zines, and illustrative notes;
