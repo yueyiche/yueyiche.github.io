@@ -6,9 +6,12 @@ permalink: /research/
 
 My research interests include:
 
-- Climate variability and change
-- Earth system modeling
-- Remote sensing of land–atmosphere processes
-- Data assimilation and machine learning in Earth sciences
+- Glaciology,
+- Ice sheet mass balance
+- Glacial geomorphology,
+- Remote sensing,
+- Numerical modeling of glacier processes,
+- Snow on sea ice,
+- Paleoglaciers, geochemistry, geochronology. 
 
 More detailed project descriptions coming soon!
