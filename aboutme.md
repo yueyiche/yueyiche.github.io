@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 permalink: /aboutme/
 ---
-![Yueyi Che](/assets/img/GradPhoto_Globe.jpg){: style="max-width: 200px; border-radius: 50%;" }
+![Yueyi Che](/assets/img/GradPhoto_Globe.jpg){: style="max-width: 250px; border-radius: 12px;" }
 
 I'm Yueyi Che, a PhD student in Earth System Science at the University of California, Irvine.
 
