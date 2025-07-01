@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: "About Me"
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Yueyi Che, a PhD student in Earth System Science at the University of California, Irvine.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My research focuses on understanding how the Earth system responds to and influences climate change, using tools from data science, modeling, and remote sensing.
 
-What else do you need?
+📄 [Download my CV (PDF)](/assets/files/Yueyi_Che_CV.pdf)
 
-### My story
+> *Note: To make the CV link work, upload your CV as a PDF to the folder:* `assets/files/`
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to reach out via [Contact](/contact/).
