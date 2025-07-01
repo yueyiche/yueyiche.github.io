@@ -7,6 +7,7 @@ permalink: /contact/
 You can reach me at:
 
 Email that always work: scientistyueyi@gmail.com
+
 Institution email: yueyic2@uci.edu
 
 GitHub: [yueyiche](https://github.com/yueyiche)  
