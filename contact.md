@@ -21,4 +21,5 @@ I can...
 * Draw science communication illustrations such as: comics, zines, and illustrative notes;
 * Deliver a 15 min, 30 min, or 50 min science communication talk about glaciers, sea ice, and climate change;
 * Lead a 30 min or 50 min workshop on [SciX](https://scixplorer.org/) as a SciX Ambassador;
+* Lead a nature day-hike field trip in California; 
 * And other science-y and creative project!
