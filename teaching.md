@@ -4,10 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-As a graduate student instructor and teaching assistant, I've contributed to courses such as:
+## Teaching Assistantship:
+Courses I taught as a Teaching Assitant at Stanford University:
 
-- Earth System Science fundamentals
-- Climate and global change
-- Scientific programming for geoscientists
+Grader at the University of California, Berkeley: 
 
-I'm also involved in mentoring undergraduate research projects and providing peer support for new teaching assistants.
+
+## Mentorship: 
+
+I have served as mentor in the following mentorship programs: 
