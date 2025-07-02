@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 ---
 
+![Antarctica Islands](/assets/img/Antarctica_Islands2.jpg){: style="border-radius: 12px;" }
+
 My research interests include:
 
 - Glaciology,
