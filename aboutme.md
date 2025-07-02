@@ -12,8 +12,13 @@ permalink: /aboutme/
 
 I'm Yueyi Che, a PhD student in Earth System Science at the University of California, Irvine.
 
+My current research focuses on :
 
-My current research focuses on how glaciers and ocean interact, how ice melts and how sea level changes under climate change, using tools from data science, modeling, and remote sensing.
+how glaciers and ocean interact,
+
+how ice melts and how sea level changes under climate change,
+
+using tools from data science, modeling, and remote sensing.
 
 
   </div>
