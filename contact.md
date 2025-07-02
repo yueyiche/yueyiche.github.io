@@ -4,6 +4,8 @@ title: "Contact"
 permalink: /contact/
 ---
 
+![Portrait](/assets/img/Glacier_Portrait.jpg){: style="border-radius: 12px;" }
+
 # You can reach me at:
 
 Email that always work: scientistyueyi@gmail.com
