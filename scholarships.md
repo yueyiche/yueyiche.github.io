@@ -6,15 +6,15 @@ permalink: /scholarships/
 
 ![Antarctica ship breaking through sea ice](/assets/img/Ship_Water.jpg){: style="border-radius: 12px;" }
 
-Scholarships, grants, and opportunities below is a list I have been making since I was an undergraduate student. International students in the US are eligible for these scholarships. These opportunities will be interesting to anyone who does Earth science and cryosphere science. Some local chapter grants have similar grants in other locations in the US. 
+Scholarships, grants, and opportunities below is a list I have been making since I was an undergraduate student. International students in the US are eligible for these scholarships. These opportunities will be interesting to anyone who does Earth science, cryosphere science, paleoclimate, geology, fieldwork. Some local chapter grants have similar grants in other locations in the US. 
 
 How to use this page: browse through the list ordered by deadline, and control-c, control-f, control-v to navigate to the detailed description of the opportunity. 
 
 Feel free to share this page. If you see any opportunity missing or some links need to be updated, please reach out to me via the contact page. Thank you! 
 
-Timeline:
+**Timeline:**
 
-Jan
+**Jan**
 - AAAS Mass Media Science & Engineering Fellowship Due Date: January 1
 - Alaska International Summer School of Glaciology
 - Karthaus Field School Due date: Jan 10th 
@@ -22,7 +22,7 @@ Jan
 - Journey in Audio: https://www.rgs.org/exploration/grants/expedition-grants/journey-in-audio 
 - AEP Scholarship  Due Date: Jan 23rd 
 
-Feb
+**Feb**
 - Swiss climate school
 - AGeS-Grad (geochorn)Due Date: Feb 1st 
 - GSA Graduate Student Research Grants (can only get twice) Due Date: Feb 2
@@ -39,7 +39,7 @@ https://www.trgs.org/apply-for-scholarships
 - SCAR and INSTANT fellowship Due Date: Feb 15th https://scar.org/fellowships-awards/fellowships/information 
 - AGU Voice: https://www.agu.org/honors/voices-for-science 
 
-Mar
+**Mar**
 - Advanced Climate Dynamics Courses (ACDC)
 - SEG Scholarships encourage the study of geophysics and related geosciences Due Date: March 01
 - Sigma Xi Grants in Aid of Research (GIAR) Due Date: March 15/Oct 1st 
@@ -47,7 +47,7 @@ Mar
 - PSECCO conference grant. Due Date: Mar 15th: https://psecco.org/news/psecco-conference-travel-grant-applications-due-march-15-2026 
 
 
-Apr
+**Apr**
 - California Community College Internship Program (CCCIP) Due Date: April 13
 - School and Workshop on Polar Climates: Theoretical, Observational and Modelling Advances Due Date: Apr 1st
 - Emily M. Hewitt Memorial Scholarship Fund Due Date: April 15th
@@ -57,15 +57,15 @@ Apr
 - Judith McKenzie Visiting Early Career Researcher Fellowship Due Date: Apr 30
 
 
-May
+**May**
 - AEP SF Scholarship Due Date: May 28th
 
-Jun
+**Jun**
 - Radiocarbon summer school
 - Marine Taxonomic Services Environmental Scholarship https://marinetaxonomicservices.com/scholarship-information 
 - The Christine Mirzayan Science and Technology Policy Graduate Fellowship Program https://mirzayanfellow.nas.edu/ 
 
-Jul
+**Jul**
 - GSA Graduate Cordilleran Section travel grant Due Date: ?
 - Science Communication Internship Program Due Date: open at July 1st
 - GlaMBIE workshop due July 31st 
@@ -73,7 +73,7 @@ Jul
 - White Desert Foundation Grant, Due Date: July 31st
 
 
-Aug
+**Aug**
 - ARCUS Early Career Summer Travel Award Due Date: rolling until Aug 3rd  
 - AWG Sand Student Research Presentation Travel Award Due Date: August 10 
 - AGU Virtual Poster showcase   
@@ -84,19 +84,19 @@ Aug
 - Arctic Data Center Course: Fundamentals of Qualitative and Quantitative Arctic Research Using R Due Date: Aug 16th 
 - Cyber2A workshop Due Date: Aug 1st 
 
-Sep
+**Sep**
 - AGeS-DiG (geochorn) Due Date: Sept 15th
 - Josephine de Karman Fellowship (final year) Due Date: Sept 16
 - Sikumiut Field School Application Due Date: Sept 15th 
 
 
-Oct
+**Oct**
 - Paul and Daisy Soros Fellowships for New Americans Due Date: Oct 29
 - Sigma Xi Grants in Aid of Research (GIAR) Due Date: March 15/Oct 1st 
 - LTER Graduate Writing Fellowship Due Date: Oct 15th 
 
 
-Nov
+**Nov**
 - CSU Pre-Professor Program (PREPP) – UCI Due Date: Nov 3rd for spring quarter
 - Rolex Explorers Club Grant  Due Date: Nov 15
 - FJALLRAVEN Field Grant Due Date: Nov 15
@@ -105,7 +105,7 @@ Nov
 - ARCUS Early Career Conference Funding Award Due Date: Nov. 1st 
 - Ralph Brown Expedition Award: https://www.rgs.org/exploration/grants/research-grants/ralph-brown-expedition-award 
 
-Dec
+**Dec**
 
 
 Application: SEG Scholarships encourage the study of geophysics and related geosciences 
