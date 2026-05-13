@@ -3,7 +3,7 @@ layout: page
 title: "Science Communication"
 permalink: /sciencecommunication/
 ---
-![My PhD elevator pitch](/assets/img/Name_Card.jpg){: style="border-radius: 12px;" }
+![My PhD elevator pitch](/assets/img/Name_Card.png){: style="border-radius: 12px;" }
 I’m passionate about making science accessible and engaging for all audiences.
 
 Some of my recent science communication efforts include:
