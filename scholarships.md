@@ -18,9 +18,10 @@ Feel free to share this page. If you see any opportunity missing or some links n
 - AAAS Mass Media Science & Engineering Fellowship Due Date: January 1
 - Alaska International Summer School of Glaciology
 - Karthaus Field School Due date: Jan 10th 
-- Woman In Science Leadership NOAA workshop Jan 24 https://research.noaa.gov/wis_workshop/?fbclid=IwY2xjawH7_eFleHRuA2FlbQIxMAABHXWV3fOgteDXvxwKhsMSbUrM5vsLaWdPJCIbyP1OOmhyQ1PhYiHdUN6D1g_aem_K18sswZFzvqCOGQArMpGbg 
-- Journey in Audio: https://www.rgs.org/exploration/grants/expedition-grants/journey-in-audio 
-- AEP Scholarship  Due Date: Jan 23rd 
+- Woman In Science Leadership NOAA workshop Jan 24
+- Journey in Audio
+- AEP Scholarship  Due Date: Jan 23rd
+- Juneau Icefield Research Program Due Date: Jan
 
 **Feb**
 - Swiss climate school
@@ -31,29 +32,28 @@ Feel free to share this page. If you see any opportunity missing or some links n
 - AAC RESEARCH GRANTS Due Date: Feb 28
 - AWG Takken Student Research Presentation Travel Award Due Date: Feb 10th/ Aug 10th
 - AIPG Graduate Scholarship Due Date: Feb 1st
-https://www.trgs.org/apply-for-scholarships 
-- Bob Compton Field Geology Research Fund (Application Deadline February 23, 2024, Anjani emails)
-- IPROMO 2025 Mountain summer school Due Date: Feb 23 https://www.fao.org/mountain-partnership/our-work/capacity-development/ipromo/ipromo-2025/en 
-- The Gino Watkins Fund Awards: https://www.rgs.org/exploration/grants/expedition-grants/the-gino-watkins-fund-awards 
+- TRGS Scholarships Due Date: Feb 15th
+- Bob Compton Field Geology Research Fund (Application Deadline February 23, 2024)
+- IPROMO 2025 Mountain summer school Due Date: Feb 23
+- The Gino Watkins Fund Awards
 - AWIS Distinguished Doctoral Research Scholarship Due Date: Febr 28
-- SCAR and INSTANT fellowship Due Date: Feb 15th https://scar.org/fellowships-awards/fellowships/information 
-- AGU Voice: https://www.agu.org/honors/voices-for-science 
+- SCAR and INSTANT fellowship Due Date: Feb 15th
+- AGU Voice
 
 **Mar**
 - Advanced Climate Dynamics Courses (ACDC)
 - SEG Scholarships encourage the study of geophysics and related geosciences Due Date: March 01
 - Sigma Xi Grants in Aid of Research (GIAR) Due Date: March 15/Oct 1st 
-- David S. Miller Young Scientist Scholarship, Due Date: Mar 13th https://www.agu.org/Honors/miller 
-- PSECCO conference grant. Due Date: Mar 15th: https://psecco.org/news/psecco-conference-travel-grant-applications-due-march-15-2026 
-
+- David S. Miller Young Scientist Scholarship, Due Date: Mar 13th
+- PSECCO conference grant. Due Date: Mar 15th
 
 **Apr**
 - California Community College Internship Program (CCCIP) Due Date: April 13
 - School and Workshop on Polar Climates: Theoretical, Observational and Modelling Advances Due Date: Apr 1st
 - Emily M. Hewitt Memorial Scholarship Fund Due Date: April 15th
 - THE LAWRENCE A. TAYLOR RESEARCH FUND IN PETROLOGY AND GEOCHEMISTRY. Due Date: Apr 12th 
-- NASA Climate modeling and remote sensing summer school: https://climatesciences.jpl.nasa.gov/events/summer-school/about/ Deadline: May 1st. 
-- COLDEX Oldest Ice Science Short Course: https://coldex.org/oldest-ice-short-course Deadline: May 1st 
+- NASA Climate modeling and remote sensing summer school Deadline: May 1st. 
+- COLDEX Oldest Ice Science Short Course Deadline: May 1st 
 - Judith McKenzie Visiting Early Career Researcher Fellowship Due Date: Apr 30
 
 
@@ -62,8 +62,8 @@ https://www.trgs.org/apply-for-scholarships
 
 **Jun**
 - Radiocarbon summer school
-- Marine Taxonomic Services Environmental Scholarship https://marinetaxonomicservices.com/scholarship-information 
-- The Christine Mirzayan Science and Technology Policy Graduate Fellowship Program https://mirzayanfellow.nas.edu/ 
+- Marine Taxonomic Services Environmental Scholarship
+- The Christine Mirzayan Science and Technology Policy Graduate Fellowship Program
 
 **Jul**
 - GSA Graduate Cordilleran Section travel grant Due Date: ?
@@ -476,3 +476,139 @@ Program Location: Queen Maude Land, Antarctica
 Program Website: https://white-desert.foundation/antarctic-science/ 
 Application Website: https://white-desert.foundation/antarctic-science/ 
 Letters of Recommendation: NA
+
+Application: Woman In Science Leadership NOAA workshop
+Due Date: Jan 24th 
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://research.noaa.gov/wis_workshop/?fbclid=IwY2xjawH7_eFleHRuA2FlbQIxMAABHXWV3fOgteDXvxwKhsMSbUrM5vsLaWdPJCIbyP1OOmhyQ1PhYiHdUN6D1g_aem_K18sswZFzvqCOGQArMpGbg 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: Journey in Audio
+Due Date: Jan 
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://www.rgs.org/exploration/grants/expedition-grants/journey-in-audio 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: TRGS Scholarships
+Due Date: Feb 15th
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://www.trgs.org/apply-for-scholarships 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: IPROMO 2025 Mountain summer school
+Due Date: Feb 23
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://www.fao.org/mountain-partnership/our-work/capacity-development/ipromo/ipromo-2025/en 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: The Gino Watkins Fund Awards
+Due Date: Feb
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://www.rgs.org/exploration/grants/expedition-grants/the-gino-watkins-fund-awards 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: SCAR and INSTANT fellowship
+Due Date: Feb 15th 
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://scar.org/fellowships-awards/fellowships/information 
+Application Website: ?
+Letters of Recommendation: ?
+
+
+Application: AGU Voice
+Due Date: Feb
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://www.agu.org/honors/voices-for-science 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: David S. Miller Young Scientist Scholarship
+Due Date: Mar 13th
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website:  https://www.agu.org/Honors/miller 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: PSECCO conference grant
+Due Date: Mar 15th
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website:  https://psecco.org/news/psecco-conference-travel-grant-applications-due-march-15-2026 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: NASA Climate modeling and remote sensing summer school
+Due Date: May 1st
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website:  https://climatesciences.jpl.nasa.gov/events/summer-school/about/ 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: COLDEX Oldest Ice Science Short Course
+Due Date: May 1st
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://coldex.org/oldest-ice-short-course 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: Marine Taxonomic Services Environmental Scholarship 
+Due Date: Jun
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://marinetaxonomicservices.com/scholarship-information 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: The Christine Mirzayan Science and Technology Policy Graduate Fellowship Program
+Due Date: Jun
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://mirzayanfellow.nas.edu/ 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: Ralph Brown Expedition Award
+Due Date: Nov
+Amount: ?
+Program Date: ?
+Program Location: ?
+Program Website: https://www.rgs.org/exploration/grants/research-grants/ralph-brown-expedition-award 
+Application Website: ?
+Letters of Recommendation: ?
+
+Application: Juneau Icefield Research Program
+Due Date: Jan
+Amount: ?
+Program Date: Jun-Aug
+Program Location: Juneau Icefield, Alaska
+Program Website: https://www.juneauicefield.org/
+Application Website: https://www.juneauicefield.org/students/application
+Letters of Recommendation: 2
