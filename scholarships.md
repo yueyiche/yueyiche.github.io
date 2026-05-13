@@ -109,12 +109,12 @@ Feel free to share this page. If you see any opportunity missing or some links n
 
 
 Application: SEG Scholarships encourage the study of geophysics and related geosciences 
-Due Date: March 01
-Program Date: open at Nov. 1st
-Program Location: Scholarship
-Program Website: https://seg.org/Scholarships 
-Application Website: https://www.grantinterface.com/Process/Apply?urlkey=segscholarship  
-Letters of Recommendation: 2
+- Due Date: March 01
+- Program Date: open at Nov. 1st
+- Program Location: Scholarship
+- Program Website: https://seg.org/Scholarships
+- Application Website: https://www.grantinterface.com/Process/Apply?urlkey=segscholarship
+- Letters of Recommendation: 2
 
 Application: AWG Sand Student Research Presentation Travel Award 
 Due Date: August 10 (must present research at GSA Annual Meeting)
